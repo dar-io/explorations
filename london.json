@@ -1,0 +1,641 @@
+{
+  "header": {
+      "location": "London"
+    },
+    "page_title": "All London Tours & Excursions in 2025",
+    "introduction": "London is one of the world's most-visited cities, home to three UNESCO World Heritage sites and countless more palaces, museums, and monuments. How do you see it all? Simple: London tours make exploring the British capital so much easier. Discover more sights in less time on a hop-on hop-off bus journey, travel the city by classic black cab, or sightseeing by bike. You can book guided visits to landmarks like the Tower of London and Westminster Abbey and neighborhood tours of literary Bloomsbury or edgy Shoreditch. And don't forget the day trips to Windsor Castle, Stonehenge, or Bath.",
+    "tour_categories": [
+      {
+        "name": "Full-day Tours"
+      },
+      {
+        "name": "Bus Tours"
+      },
+      {
+        "name": "Day Trips"
+      },
+      {
+        "name": "Half-day Tours"
+      },
+      {
+        "name": "Private Sightseeing Tours"
+      },
+      {
+        "name": "Walking Tours"
+      },
+      {
+        "name": "Historical Tours"
+      },
+      {
+        "name": "Harry Potter Tours"
+      },
+      {
+        "name": "City Tours"
+      },
+      {
+        "name": "Unique Experiences"
+      }
+    ],
+    "results_count": "1,000+",
+    "sort_order_info": "Revenue may affect this sort order",
+    "sort_by": "Featured",
+    "tours": [
+      {
+        "designation": "Best Seller",
+        "title": "Stonehenge, Windsor Castle, and Bath from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/08/9b/caption.jpg?w=800&h=600&s=1",
+        "description": "This Tour combines three iconic destinations in one day, offering a rich blend of history, culture, and stunning scenery. Travelers can explore the prehistoric marvel of Stonehenge, the royal grandeur of Windsor Castle, and the exquisite Georgian architecture of Bath.\nBenefit from knowledgeable guides who provide fascinating insights and stories abut each location, enhancing the overall experience and making the history come alive.\n...More",
+        "rating": 4.5,
+        "reviews_count": 15135,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "11 hours",
+        "price": "NOK 1,548",
+        "price_unit": null
+      },
+      {
+        "designation": "Likely to Sell Out",
+        "title": "Harry Potter Warner Bros. Studio Tour with Transport from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/3d/34/caption.jpg?w=800&h=600&s=1",
+        "description": "Delve into the magical world of Harry Potter™ at the Warner Bros. Studio Tour London, with round-trip luxury coach transport included. Follow in the footsteps of Hogwarts’ students as you walk around original sets like Diagon Alley and Platform 9 ¾, complete with the Hogwarts Express steam engine. Get up close to costumes and props, and discover the wizardry required to create the mind-blowing special effects and animatronics.\n...More",
+        "rating": 4.4,
+        "reviews_count": 3349,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "7 hours",
+        "price": "NOK 1,478",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Stonehenge, Windsor Castle and Bath with Pub Lunch in Lacock",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/14/6f/caption.jpg?w=800&h=600&s=1",
+        "description": "Explore the beautiful scenery of the English countryside on this full-day tour of Windsor, Stonehenge, Lacock and Bath. Head to Windsor, home of the British Royal Family famous for Windsor Castle. Over 900 years of royal history are waiting for you there. Continue onward to the 5,000-year-old prehistoric site of Stonehenge with a guide, and ponder over its use in centuries past. Visit the charming English village of Lacock for a traditional pub lunch, and finally, enjoy a coach tour of Georgian city of Bath as well as a short walking tour.\n...More",
+        "rating": 4.4,
+        "reviews_count": 6373,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "12 hours 30 minutes",
+        "price": "NOK 1,337",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Big Bus London Hop-On Hop-Off Tour with Optional River Cruise",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/16/fb/caption.jpg?w=800&h=600&s=1",
+        "description": "See the sights of London aboard an open-top, double-decker Big Bus as you admire 360-degree views of top attractions and listen to captivating commentary. Use your 24 hour or 48 hour tickets on three different routes with audio narration, and hop on or off at any of the stops around town. A one-way River Thames cruise between the Tower of London and Westminster Pier (in either direction) is included with all tickets.\n...More",
+        "rating": 3.8,
+        "reviews_count": 10077,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "3 hours 30 minutes",
+        "price": "NOK 605",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "London: Buckingham Palace & Big Ben (& Westminster Abbey entry)",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/be/56/2c/caption.jpg?w=800&h=600&s=1",
+        "description": "Explore London’s top 20 world famous landmarks on a 3 hour walking tour then visit Westminster Abbey\nOne of the United Kingdom's most notable religious buildings and the traditional place of coronation and burial site for the English Monarchy.\nStart with a walking tour of the history, culture, and legends of one of Europe’s best-loved cities.\nHead through Green Park to Buckingham Palace, watch the world-famous Changing of the Guard ceremony (certain days). Head to Westminster, see Downing Street, Westminster Abbey, Big Ben, and the Houses of Parliament.\nThen, head to Westminster Abbey. Since the coronation of William the Conqueror in 1066, all coronations of English and British monarchs have been in Westminster Abbey.\nPlease note: The Changing of the Guard happens Mon/Wed/Fri/Sun only - 10am tour\nWe will not accompany you into the Abbey\n...More",
+        "rating": 4.8,
+        "reviews_count": 160,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "5 hours",
+        "price": "NOK 1,380",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "The Premier Classic London: Private 4-Hour Tour in a Black Cab",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2f/53/45/35/caption.jpg?w=800&h=600&s=1",
+        "description": "Experience the perfect way to see many London landmarks in a short amount of time with a knowledgeable driver guide and see the most popular locations that are the essence of the city, including Buckingham Palace, Westminster Abbey and the Tower of London.\nHalf a day is all you need to taste the real London with a cabbie who knows the city inside out, hidden secrets and all where a busload of 50 people can’t. Even tips on where to grab the best coffee.\nYou will have time for photo opportunities and short walks in iconic sights to see most of London in 4 hours, and feel free to tell your guide on the day what you would like to see and not to miss.\n---------------\nImportant: No tickets are required for this tour and you won't be entering any attractions, only passing by and stopping for photo opportunities.\n---------------\n...More",
+        "rating": 5.0,
+        "reviews_count": 2071,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "4 hours",
+        "price": "NOK 5,617",
+        "price_unit": "Per group"
+      },
+      {
+        "designation": null,
+        "title": "Stonehenge and Bath Tour from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/1a/3d/caption.jpg?w=800&h=600&s=1",
+        "description": "Sit back and relax as you travel by air-conditioned coach from London to the UNESCO World Heritage-listed city of Bath. On your way, discover the iconic prehistoric stone formation of Stonehenge. Spend a full afternoon exploring Bath, and take advantage of the opportunity to see the ancient Roman Baths or the Jane Austen Visitor Centre.\n...More",
+        "rating": 4.7,
+        "reviews_count": 3498,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "11 hours",
+        "price": "NOK 1,253",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Stonehenge, Windsor Castle and Bath Full Day Guided Tour",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/be/6e/ff/caption.jpg?w=800&h=600&s=1",
+        "description": "Entry to Windsor Castle State Apartments\nVisit Queen Mary’s Dolls’ House and St George’s Chapel\nVisit Mysterious Stonehenge\nEntrance to Roman Baths and Pump Rooms with spa water–tasting\nLuxury air–conditioned vehicle*\n...More",
+        "rating": 4.5,
+        "reviews_count": 4212,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "11 hours",
+        "price": "NOK 1,197",
+        "price_unit": null
+      },
+      {
+        "designation": "Likely to Sell Out",
+        "title": "Skip the Line Tower of London & Westminster Tour and River Cruise",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/37/98/caption.jpg?w=800&h=600&s=1",
+        "description": "Experience the quintessential sights of one of the world's most fascinating and dynamic cities on this full-day London walking tour. From Westminster Abbey to the Tower of London and even the River Thames, this London city tour is proof that limited time doesn't have to mean a limited view of the UK capital. Soak up London's key attractions in just one action-packed day, with all the logistics handled for you as you explore in the company of a knowledgeable Blue Badge guide.\n...More",
+        "rating": 4.8,
+        "reviews_count": 531,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "6 to 8 hours",
+        "price": "NOK 1,675",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Tower of London and Crown Jewels Exhibition Ticket",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/6d/c1/caption.jpg?w=800&h=600&s=1",
+        "description": "Within the ancient Fortress, the Tower of London, visitors can gaze up at the imposing White Tower and marvel at the priceless Crown Jewels.\nHear bloody tales of the Tower told by the Yeoman Warders; stand where famous heads rolled and discover where prisoners and exotic animals including a polar bear were kept. Tours start every 30 minutes from the Middle Tower and are included in admission.\nVisit the Royal Armouries Line of Kings display, the world's longest running museum exhibit, in the iconic White Tower.\nComplete your visit on the Tower Wharf overlooking the river Thames, Tower Bridge and Europe's tallest skyscraper, The Shard.\n...More",
+        "rating": 4.4,
+        "reviews_count": 5996,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "1 day",
+        "price": "NOK 504",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "London In One Day Tour with River Cruise & London Eye Option",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/b8/27/caption.jpg?w=800&h=600&s=1",
+        "description": "See London on a full-day sightseeing tour of the city, led by a guide. Hear the history of top London attractions like Westminster Abbey and Big Ben, and a guided tour of St Paul’s Cathedral. After the sightseeing tour, watch the Changing of the Guard Ceremony at Buckingham Palace and tour the Tower of London. As a bonus, this experience also includes a one-way River Thames sightseeing cruise, which can be used on the day or another time. Upgrade to include a Standard London Eye ticket, after the tour.\n- See all of London's most iconic sights in one day\n- Visit two of London's most iconic landmarks\n- Watch a traditional British military ceremony\n- Marvel at the scale and splendour of St Paul's Cathedral\n- See the priceless Crown Jewels collection at The Tower of London\n- Enjoy a scenic cruise on the River Thames\n- Finish with spectacular views on the world's tallest cantilevered observation wheel (if option selected)\n...More",
+        "rating": 4.3,
+        "reviews_count": 1556,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "9 hours",
+        "price": "NOK 1,816",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "London Dinner Cruise on the Thames River",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/be/83/90/caption.jpg?w=800&h=600&s=1",
+        "description": "Enjoy a evening of food, wine and entertainment as you cruise down the River Thames. Glide past some of London's most spectacular landmarks including the Houses of Parliament, St. Paul's Cathedral and Tower Bridge, as you cruise from the center of London to the Thames River barrier and back.\nUpgrade to a VIP package London Dinner cruise including:\nVIP seating area at the front of the boat so you can enjoy the best views of London. A welcome glass of champagne and bottle of still or sparkling water followed by five delightful canapés before your starter and a decadent cheeseboard accompanied by dessert wine as a final course to satisfy your taste buds.\n...More",
+        "rating": 4.2,
+        "reviews_count": 1478,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "3 hours",
+        "price": "NOK 1,295",
+        "price_unit": null
+      },
+      {
+        "designation": "Likely to Sell Out",
+        "title": "VIP Tower of London and Crown Jewels Tour with Private Beefeater Meet & Greet",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/fa/b0/caption.jpg?w=800&h=600&s=1",
+        "description": "This is a full 3-hour guided tour of the highlights of the must-see Tower of London including a private Beefeater encounter that few get to enjoy. Ask questions, take a photo with the Beefeater and make the most of this tour.\n...More",
+        "rating": 4.5,
+        "reviews_count": 584,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "3 hours",
+        "price": "NOK 1,577",
+        "price_unit": null
+      },
+      {
+        "designation": "Likely to Sell Out",
+        "title": "Guided Tour of London Westminster Abbey, Big Ben, Buckingham",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/be/56/6f/caption.jpg?w=800&h=600&s=1",
+        "description": "Picture yourself as the next heir to the British throne, visiting London for the first time, and discovering the city’s royal heritage as you visit the majestic Westminster Abbey and the royal district. Long long time ago… uncover London’s mysteries!\nHighlights:\n• Trace centuries of London's royal heritage with a 5-Star Master Storyteller\n• Seamlesly enter the Westminster Abbey and discover its royal treasures\n• Follow the royal route to Buckigham Palace, the official residence of kings and queens\n• Hear the legend of Big Ben, an iconic clock tower of the Palace of Westminster\n• Immerse yourself in fascinating tales about British monarchs, politics and historic events\nYou're King Sæberht who, according to one legend, laid the first stone of Westminster Abbey. Or was it King Lucius who did it? Which legend is true? Step inside the Abbey, follow the royal route to Buckingham Palace and see London’s history through the royal lens. Book now not just a tour, but a voyage through time!\n...More",
+        "rating": 4.5,
+        "reviews_count": 697,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "4 hours",
+        "price": "NOK 1,197",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Stonehenge and Windsor from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/be/69/23/caption.jpg?w=800&h=600&s=1",
+        "description": "This full day tour combines visits to two of best selling sites, Stonehenge & Windsor.\nVisit Windsor, home to one of the official residences of His Majesty The King and uncover the mystery behind Stonehenge - the world's most famous Neolithic site.\n• Expert Guide\n• Superior coach with free Wi-Fi and USB charging\n• Unravel the mystery of Stonehenge\n• Visit the ancestral home of the British monarchy (if option including entry to Windsor Castle is selected)\n...More",
+        "rating": 4.8,
+        "reviews_count": 966,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "9 hours",
+        "price": "NOK 1,478",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Windsor Castle, Stonehenge, and Oxford Day Trip from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/e0/73/caption.jpg?w=800&h=600&s=1",
+        "description": "Windsor has been the home of Kings and Queens for centuries. Wander its cobbled streets and see the largest occupied castle in the world - home of the English and British monarchy for almost 1,000 years and today one of the official residences of His Majesty The King.\nStonehenge is a must-see icon of England and, with a history spanning 4,500 years, has many different meanings to people today. Stonehenge is a wonder of the world, a spiritual place and a source of inspiration.\nPlus, discover the beautiful English city of Oxford, home to the world-famous university and incredible architecture dating back to Saxon times.\n- See the beautiful historic town of Royal Windsor\n- Visit Windsor Castle, the ancestral home of the British monarchy (if option selected)\n- Unravel the mystery of Stonehenge with an interactive audio map (if option selected)\n- Explore the beautiful city of Oxford with an expert guide\n- See the exteriors of the world-famous Colleges of Oxford University\n...More",
+        "rating": 4.5,
+        "reviews_count": 4050,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "11 hours 30 minutes",
+        "price": "NOK 1,548",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Stonehenge Morning Half-Day Tour from London Including Admission",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/c4/92/caption.jpg?w=800&h=600&s=1",
+        "description": "We leave London at 7.30 am to arrive at Stonehenge before the crowds. This morning tour allows visitors to visit Stonehenge and return to Central London by 2pm for other sightseeing. It is very difficult and expensive to reach Stonehenge by public transport, so this tour offers a great value way to experience the Stonehenge World Heritage site. Your admission ticket is included. We spend 2 Hours at Stonehenge, which allows you time to take the site shuttle bus to the stones, enjoy your visit to Stonehenge and then return to explore the Visitor Centre and Exhibition.\n...More",
+        "rating": 4.8,
+        "reviews_count": 382,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "6 hours 30 minutes",
+        "price": "NOK 929",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "The Kensington Palace Gardens Royal High Tea",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/bf/e1/8b/caption.jpg?w=800&h=600&s=1",
+        "description": "Experience the original Royal English Tea with traditional sandwiches, cakes & scones in the 18th Century Tea Room by the Palace.\nFirst, we stroll around Kensington Gardens & learn of its long history. We will see the beautiful gardens Albert created for his wife Queen Victoria & take in the spectacular views as we approach the Palace where Prince Harry and William grew up. After viewing Diana's statue, we will then enjoy the full splendour of High Tea.\n. All Food & Beverage Service includes Service Charge.\n. The tour itself does not include any gratuities & are entirely at your discretion\n. Alcohol is not included. A drinks menu is available when you visit for a supplementary cost.\n. The Palace Tea Room can be closed at short notice.  In these rare cases, we arrange for High Tea in a prestigious alternative venue.\n- This option does not include Palace Entry (High Season £24.70 at the gate). Choose the \"Palace Entry\" option to add a ticket to your booking.\n...More",
+        "rating": 4.6,
+        "reviews_count": 775,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "2 hours",
+        "price": "NOK 1,760",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Cotswolds Small Group Tour from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/91/a8/caption.jpg?w=800&h=600&s=1",
+        "description": "Covering almost 800 square miles and no fewer than five English counties, the Cotswolds are the single largest designated Area of Natural Beauty in the UK. The area was once renowned for its wool production, reminders of which you can still see today. During this Experience, we will be visiting three picturesque villages hidden in the heart of the Cotswolds, with honey-coloured limestone period buildings and rich cultural heritage. Relax aboard your Luxury Small Group Vehicle with an expert guide as you enjoy the best of the English countryside.\n...More",
+        "rating": 4.7,
+        "reviews_count": 1052,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "10 hours",
+        "price": "NOK 1,816",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Fully Guided Tour of Warner Bros Studio Tour London – The Making of Harry Potter",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2f/23/e6/3b/caption.jpg?w=800&h=600&s=1",
+        "description": "Go behind the scenes of the Harry Potter movies at the Warner Bros. Studio Tour London – The Making of Harry Potter. Accompanied by a guide, you'll explore the studios for three hours to see costumes, props, and sets from all of the beloved movies. Peek inside Dumbledore's office, stroll down Diagon Alley, and much more. Round-trip train travel from London is included.\n...More",
+        "rating": 4.6,
+        "reviews_count": 649,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "6 hours",
+        "price": "NOK 2,098",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Best of London Tour inc Tower of London and Changing of the Guard",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/4e/17/caption.jpg?w=800&h=600&s=1",
+        "description": "See the best that England’s capital has to offer on a full-day city tour of London! Explore St Paul’s Cathedral with a guide, then make a photo stop at Westminster Abbey. Watch the must-see Changing of the Guard ceremony outside Buckingham Palace and have some free time for lunch around the UNESCO-listed Tower of London. Finish up with a sightseeing cruise down the River Thames. If you want to see even more, upgrade to one of two activities: a cream tea at Harrods restaurant or a London Eye flight.\n...More",
+        "rating": 4.3,
+        "reviews_count": 2488,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "9 hours",
+        "price": "NOK 1,971",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Buckingham Palace Entrance Ticket & Changing of the Guard Tour",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a7/eb/f3/caption.jpg?w=800&h=600&s=1",
+        "description": "Experience London’s royal heritage and pageantry on a 2.5-hour experience that combines a visit to Buckingham Palace with the Changing of the Guard. Enjoy the colorful spectacle of the Changing of the Guard ceremony, and then enter the magnificent palace with a tour host for an independent audio tour of the State Rooms, an experience only available for two months of the year. Admire the lavish rooms that are used by the royals for State and ceremonial events, as you discover the palace’s history from the audio guide.\nPlease note: Buckingham Palace is only open to the public for approx. eight weeks each year. Tickets sell out fast, so book now to avoid disappointment\n...More",
+        "rating": 4.1,
+        "reviews_count": 1246,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "2 hours 30 minutes",
+        "price": "NOK 1,014",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Guided Luxury Paris Day Trip with Optional Lunch at the Eiffel Tower",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/bf/d5/caption.jpg?w=800&h=600&s=1",
+        "description": "See Paris in style on the original and best-selling luxury Pars day trip from London. Travel by high-speed train from St. Pancras International escorted by a professional guide and, on arrival, take a panoramic coach tour of Paris, enjoy a luxury cruise on the Seine River with free time to explore. You will also have the opportunity to upgrade your ticket to include a delicious 3 course lunch on the Eiffel tower followed. The ultimate Paris day trip from London.\nOptional Lunch at the Eiffel Tower\nReopened in June 2022, the 1st floor fully renovated brasserie is run by 2 Michelin stars chef Thierry Marx, offering contemporary brasserie cuisine. The restaurant opens 360 degrees onto the Iron Lady’s metal structure for you to enjoy its beauty, and offers a breathtaking view of the Trocadero and the Palais de Chaillot.\n...More",
+        "rating": 4.6,
+        "reviews_count": 2254,
+        "cancellation_policy": null,
+        "duration": "15 hours",
+        "price": "NOK 4,364",
+        "price_unit": null
+      },
+      {
+        "designation": null,
+        "title": "Oxford and Traditional Cotswolds Villages Small-Group Day Tour from London",
+        "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/a8/67/61/caption.jpg?w=800&h=600&s=1",
+        "description": "The Cotswolds are like stepping into a landscape painting. Vivid green colours, lush waterways and the most delightful cottages. And Oxford needs no introduction. The city of students, spires and sumptuous cathedrals is as inspirational as it is fascinating. Join this 10-hour, small-group tour and experience two of England’s most deservedly-famous locations. Transportation between attractions is included. Food and drinks can be purchased along the way.\n...More",
+        "rating": 4.6,
+        "reviews_count": 1072,
+        "cancellation_policy": "Free Cancellation",
+        "duration": "10 hours",
+        "price": "NOK 1,452",
+        "price_unit": null
+      }
+    ],
+    "pagination": {
+      "current_page": 1,
+      "total_pages": 165
+    },
+    "people_also_ask": [
+      {
+        "question": "What are the best tours in London?",
+        "answer": "There are lots of popular London tours that help you experience the city. Looking at recent ratings and reviews, here are the five most popular tours right now:\n- Small-Group Tour: Historical Pub Walking Tour of London (https://www.viator.com/tours/London/Historical-Pub-Walking-Tour-of-London/d737-5452DRINK)\n- Tour for Muggles The Ultimate Harry Potter Walking Tour in London (https://www.viator.com/tours/London/Tour-for-Muggles/d737-42233P1)\n- London Jack the Ripper Tour with Ripper-Vision (https://www.viator.com/tours/London/Jack-the-Ripper-Tour-with-Ripper-Vision-in-London/d737-23256P1)\n- Stonehenge, Windsor Castle and Bath Full Day Guided Tour (https://www.viator.com/tours/London/Windsor-Castle-Bath-and-Stonehenge-By-Gray-Line-London/d737-5461P8)\n- Original Harry Potter Locations Tour - Guided Tour of London (https://www.viator.com/tours/London/Harry-Potter-Walking-Tour-with-Games-and-Prizes/d737-49063P1)"
+      },
+      {
+        "question": "Are guided tours in London worth it?",
+        "answer": "Yes, London tours are absolutely worth it. In a city as big as London, it can be challenging to do everything on your itinerary—or even know where to start. Guided tours help you get to the highlights, explore new neighborhoods, learn London history, or skip the lines at popular attractions. And of course, no trip to London is complete without a hop-on hop-off tour on the city’s iconic double-decker buses.\nPer one customer who booked the London Classic Landmarks Bike Tour with Local Guide (https://www.viator.com/tours/London/London-Bike-Tour-East-West-or-Central-London/d737-3862BICYCLE), “Our guide Pat was THE BEST! He treated us to a fun, fact-filled tour of the city. An actor in his previous life (he claimed to have played Hamlet at the Globe Theatre in the 90s), his historical narratives were very animated; at Trafalgar Square he acted out the Battle of Trafalgar right through to and including the hero’s death scene. We learned so much and were truly entertained in the process.”"
+      },
+      {
+        "question": "How much do London tours cost?",
+        "answer": "Prices vary widely by activity. London tours start at around US$5 for self-guided options. On the high-end, multi-day trips can cost upward of US$5,000. The majority of tours fall in between, but in general, expect to pay more for tours that include extras like admission tickets, food and drinks, or transportation.\nYou can take the budget-friendly Kew Gardens, Richmond—Self-Guided Audio Tour (https://www.viator.com/tours/London/Kew-Gardens/d737-225279P1) for around US$7, which includes GPS maps and audio commentary guiding you around highlights like the Temperate House, Mediterranean Garden, and the Princess of Wales Conservatory. Pricier options include tours like The Best of London In A Day Private Car Tour (https://www.viator.com/tours/London/The-best-of-London-in-a-day/d737-123799P7) (around US$1,300 per group), which is a completely private tour taking in the city’s most famous sights, including Buckingham Palace, Westminster Abbey, Big Ben, the Houses of Parliament, St. Paul’s Cathedral, the Tower of London, and more."
+      },
+      {
+        "question": "What do you see on London tours?",
+        "answer": "Choose from sightseeing tours that highlight essential attractions like Buckingham Palace and Westminster Abbey; pub crawls through historic Soho; or day trips to places like Oxford or Stonehenge. Themed tours are also popular, taking you to Jack the Ripper’s most infamous haunts or filming locations for Harry Potter and Sherlock.\nConsider an all-day tour to visit as many attractions and landmarks as possible. For example, the London 30 Top Sights with Fun Local Guide (https://www.viator.com/tours/London/See-over-20-top-London-Sights-Fun-Local-Guide-Kids-go-free/d737-75760P2) tour includes sights such as Buckingham Palace (with a possible Changing of the Guard ceremony), Trafalgar Square, the Houses of Parliament, Westminster Abbey, the South Bank, St. Paul’s Cathedral, Borough Market, London Bridge, and more."
+      },
+      {
+        "question": "How many days in London is enough?",
+        "answer": "For most visitors, 3–7 days is perfect. In three days, you can visit the most popular sights and explore a couple of neighborhoods. But the longer you stay, the more you’ll find to see and do, whether it’s catching a show on the West End, visiting more museums, or enjoying leisurely afternoons in the city’s many parks and gardens."
+      },
+      {
+        "question": "What is the best month to visit London?",
+        "answer": "March through May is generally considered the best time to visit London, when temperatures are mild and the city’s parks are in bloom. However, crowds and prices tend to be high. If you don’t mind the chill, visit during the off season in the fall and winter for better deals on flights and hotels."
+      },
+      {
+        "question": "What are the best attractions in London?",
+        "answer": "According to travelers, these are the best attractions in London:\n- Tower of London (https://www.viator.com/London-attractions/Tower-of-London/d737-a93)\n- Buckingham Palace (https://www.viator.com/London-attractions/Buckingham-Palace/d737-a84)\n- Westminster Abbey (https://www.viator.com/London-attractions/Westminster-Abbey/d737-a95)\n- Houses of Parliament & Big Ben (https://www.viator.com/London-attractions/Houses-of-Parliament-and-Big-Ben/d737-a1395)\n- London Eye (https://www.viator.com/London-attractions/London-Eye/d737-a1400)\nView Viator’s guide to all the best attractions in London (https://www.viator.com/London/d737)."
+      },
+      {
+        "question": "What are the best day trips from London?",
+        "answer": "There are tons of great trips to take from London. According to traveler reviews, these are the best day trips to book right now:\n- Stonehenge, Windsor Castle, and Bath Full-Day Guided Tour (https://www.viator.com/tours/London/Windsor-Castle-Bath-and-Stonehenge-By-Gray-Line-London/d737-5461P8)\n- Stonehenge and Bath Tour from London (https://www.viator.com/tours/London/Stonehenge-and-Bath-Day-Trip-from-London/d737-2452BATH)\n- Stonehenge, Windsor Castle, and Bath Day Trip from London (https://www.viator.com/tours/London/Stonehenge-Windsor-Castle-and-Bath-Day-Trip-from-London/d737-3858EE021F)\n- Guided Luxury Paris Day Trip with Optional Lunch at the Eiffel Tower (https://www.viator.com/tours/London/Luxury-Paris-Day-Trip-with-Champagne-Lunch-on-the-Eiffel-Tower/d737-2452T29)\n- Windsor Castle, Stonehenge, and Oxford Day Trip from London (https://www.viator.com/tours/London/Windsor-Castle-Stonehenge-and-Oxford-Day-Trip-from-London/d737-3858EEO26)\nView all of Viator’s top London day trips (https://www.viator.com/London-tours/Day-Trips-and-Excursions/d737-g5)."
+      },
+      {
+        "question": "What are the best affordable things to do in London?",
+        "answer": "You don’t have to spend a fortune to have a great time in London. Here are some of the best London activities under US$25:\n- Tour for Muggles The Ultimate Harry Potter Walking Tour in London (https://www.viator.com/tours/London/Tour-for-Muggles/d737-42233P1)\n- Original Harry Potter Locations Tour - Guided Tour of London (https://www.viator.com/tours/London/Harry-Potter-Walking-Tour-with-Games-and-Prizes/d737-49063P1)\n- London Jack The Ripper Guided Walking Tour (https://www.viator.com/tours/London/The-Jack-The-Ripper-Tour-A-Walk-Worth-Investigating/d737-195091P1)\n- Westminster to Greenwich Sightseeing Thames Cruise in London (https://www.viator.com/tours/London/Westminster-to-Greenwich-Sightseeing-Thames-Cruise/d737-37862P1)\n- Ultimate Jack the Ripper: Guided Tour of London (https://www.viator.com/tours/London/Online-Jack-the-Ripper-Murder-Mystery/d737-49063P36)"
+      },
+      {
+        "question": "What are the best outdoor activities in London?",
+        "answer": "There are tons of London activities to enjoy in the fresh air. Here are some of the top outdoor tours to book right now:\n- High-Speed Thames River Speedboat in London (https://www.viator.com/tours/London/High-Speed-Thames-River-RIB-Cruise-in-London/d737-6918ULA)\n- Westminster to Greenwich Sightseeing Thames Cruise in London (https://www.viator.com/tours/London/Westminster-to-Greenwich-Sightseeing-Thames-Cruise/d737-37862P1)\n- Up at The O2 Climb Experience Guided Tour with Panoramic Views (https://www.viator.com/tours/London/Climb-The-O2/d737-12109P3)\n- London Classic Landmarks Bike Tour with Local Guide (https://www.viator.com/tours/London/London-Bike-Tour-East-West-or-Central-London/d737-3862BICYCLE)\n- London Eye River Cruise (https://www.viator.com/tours/London/London-Eye-River-Cruise/d737-2988P12)\nView all of Viator’s top outdoor activities in London (https://www.viator.com/London-tours/Outdoor-Activities/d737-g9)."
+      }
+    ],
+    "more_tours_categories": [
+      {
+        "name": "Cruises & Sailing"
+      },
+      {
+        "name": "Port Transfers"
+      },
+      {
+        "name": "Skip the line Tickets"
+      },
+      {
+        "name": "Attractions & Museums"
+      },
+      {
+        "name": "Bus Tours"
+      },
+      {
+        "name": "Harry Potter Tours"
+      },
+      {
+        "name": "Airport & Hotel Transfers"
+      },
+      {
+        "name": "Half-day Tours"
+      },
+      {
+        "name": "Hop on Hop Off Buses"
+      },
+      {
+        "name": "Dinner Cruises"
+      },
+      {
+        "name": "Ghost Tours"
+      },
+      {
+        "name": "Walking Tours"
+      }
+    ],
+    "attractions_in_london": [
+      {
+        "name": "Whitehall Tours & Tickets"
+      },
+      {
+        "name": "London Wall Tours & Tickets"
+      },
+      {
+        "name": "Trafalgar Square Tours & Tickets"
+      },
+      {
+        "name": "Thames River Tours & Tickets"
+      },
+      {
+        "name": "Cambridge Theatre Tours & Tickets"
+      },
+      {
+        "name": "Emirates Stadium Tours & Tickets"
+      },
+      {
+        "name": "Brixton Market Tours & Tickets"
+      },
+      {
+        "name": "Canary Wharf Tours & Tickets"
+      },
+      {
+        "name": "Green Park Tours & Tickets"
+      },
+      {
+        "name": "St. James's Park Tours & Tickets"
+      },
+      {
+        "name": "Soho Tours & Tickets"
+      },
+      {
+        "name": "Port of Southampton Tours & Tickets"
+      },
+      {
+        "name": "Bank of England Museum Tours & Tickets"
+      },
+      {
+        "name": "Kensington Palace Tours & Tickets"
+      },
+      {
+        "name": "Harwich International Port Tours & Tickets"
+      },
+      {
+        "name": "Westfield Stratford City Tours & Tickets"
+      },
+      {
+        "name": "Diana Memorial Fountain Tours & Tickets"
+      }
+    ],
+    "things_to_do_near_london": [
+      {
+        "name": "Things to do in Windsor & Eton"
+      },
+      {
+        "name": "Things to do in Horley"
+      },
+      {
+        "name": "Things to do in Chatham"
+      },
+      {
+        "name": "Things to do in Alton"
+      },
+      {
+        "name": "Things to do in Milton Keynes"
+      },
+      {
+        "name": "Things to do in Brighton"
+      },
+      {
+        "name": "Things to do in Cambridge"
+      },
+      {
+        "name": "Things to do in Oxford"
+      },
+      {
+        "name": "Things to do in Canterbury"
+      },
+      {
+        "name": "Things to do in Portsmouth"
+      },
+      {
+        "name": "Things to do in Dover"
+      },
+      {
+        "name": "Things to do in Southampton"
+      },
+      {
+        "name": "Things to do in Peterborough"
+      },
+      {
+        "name": "Things to do in Cotswolds"
+      },
+      {
+        "name": "Things to do in Isle of Wight"
+      }
+    ],
+    "popular_on_viator": [
+      {
+        "name": "Statue of Liberty"
+      },
+      {
+        "name": "The White House"
+      },
+      {
+        "name": "Antelope Canyon"
+      },
+      {
+        "name": "Hoover Dam"
+      },
+      {
+        "name": "Alcatraz"
+      },
+      {
+        "name": "Stonehenge"
+      },
+      {
+        "name": "Auschwitz-Birkenau Memorial and Museum"
+      },
+      {
+        "name": "Beverly Hills"
+      },
+      {
+        "name": "Colosseum"
+      },
+      {
+        "name": "Washington Monument"
+      },
+      {
+        "name": "San Diego Zoo"
+      },
+      {
+        "name": "Space Needle"
+      },
+      {
+        "name": "Eiffel Tower"
+      },
+      {
+        "name": "Pearl Harbor National Memorial"
+      },
+      {
+        "name": "Empire State Building"
+      },
+      {
+        "name": "Art Institute of Chicago"
+      },
+      {
+        "name": "Aquarium of the Pacific"
+      },
+      {
+        "name": "Blue Lagoon"
+      },
+      {
+        "name": "Burj Khalifa"
+      },
+      {
+        "name": "Metropolitan Museum of Art (The Met)"
+      }
+    ],
+    "social_media": [
+      {
+        "platform": "Facebook"
+      },
+      {
+        "platform": "X"
+      },
+      {
+        "platform": "Pinterest"
+      },
+      {
+        "platform": "Instagram"
+      },
+      {
+        "platform": "YouTube"
+      },
+      {
+        "platform": "TikTok"
+      }
+    ],
+    "trustpilot_rating": 4.4,
+    "trustpilot_reviews_count": 258486,
+    "trustpilot_url": "https://www.trustpilot.com/review/www.viator.com",
+    "footer_links": [
+      {
+        "text": "Help Center"
+      },
+      {
+        "text": "Privacy and Cookies Statement"
+      },
+      {
+        "text": "About Viator"
+      },
+      {
+        "text": "Careers"
+      },
+      {
+        "text": "Sitemap"
+      },
+      {
+        "text": "Supplier Sign Up"
+      },
+      {
+        "text": "Travel Agents"
+      },
+      {
+        "text": "Become an Affiliate"
+      },
+      {
+        "text": "News"
+      },
+      {
+        "text": "Viator blog"
+      }
+    ],
+    "app_download_links": [
+      {
+        "store": "Google Play Store"
+      },
+      {
+        "store": "Apple App Store"
+      }
+    ]
+  }

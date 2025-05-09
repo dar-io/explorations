@@ -1,0 +1,640 @@
+{
+    "header": {
+      "company": {
+        "name": "a Tripadvisor company",
+        "url": "https://www.viator.com/"
+      },
+      "location": "Las Vegas",
+      "contact": {
+        "phone": "(888) 651-9785",
+        "phone_link": "tel:(888) 651-9785",
+        "chat_available": true
+      },
+      "page_title": "All Las Vegas Tours & Excursions in 2025",
+      "options": [
+        "Select Dates",
+        "Filters"
+      ]
+    },
+    "filters": [
+      {
+        "name": "Day Trips"
+      },
+      {
+        "name": "Bus Tours"
+      },
+      {
+        "name": "Half-day Tours"
+      },
+      {
+        "name": "Helicopter Tours"
+      },
+      {
+        "name": "Shows"
+      },
+      {
+        "name": "4WD Tours"
+      },
+      {
+        "name": "Private Sightseeing Tours"
+      },
+      {
+        "name": "Full-day Tours"
+
+      },
+      {
+        "name": "Extreme Sports"
+      },
+      {
+        "name": "Night Tours"
+      }
+    ],
+    "results_summary": {
+      "count": "1,000+",
+      "sort_by": "Featured"
+    },
+    "tours": [
+      {
+        "tags": [
+          "Best Seller"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2f/3d/13/77/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 12827,
+        "title": "Grand Canyon West, Hoover Dam Stop and Optional Lunch and Skywalk",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "11 to 12 hours",
+        "price": "$99",
+        "discounted": "$89"
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/da/2c/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 2167,
+        "title": "Grand Canyon Deluxe Helicopter Tour with Landing from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "4 hours",
+        "price": "$505"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/cb/e6/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 11045,
+        "title": "Grand Canyon West, Hoover Dam, Breakfast, Lunch. Optional Skywalk",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "10 hours 30 minutes",
+        "price": "$94"
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/d4/e3/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 4156,
+        "title": "Lower Antelope Canyon and Horseshoe Bend Day Tour with Lunch",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "14 to 16 hours",
+        "price": "$189"
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/ca/02/f0/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 4344,
+        "title": "Half-Day Emerald Cave Kayak Tour with Optional Hotel Pickup",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "5 to 6 hours",
+        "price": "$109"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2f/3d/20/7c/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.6,
+        "reviews_count": 1124,
+        "title": "Grand Canyon West Rim Luxury Helicopter Tour from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "3 hours",
+        "price": "$399"
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/a9/36/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.3,
+        "reviews_count": 5278,
+        "title": "Las Vegas Helicopter Night Flight and Optional VIP Transportation",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "1 to 3 hours",
+        "price": "$99"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/ca/94/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.7,
+        "reviews_count": 2007,
+        "title": "Bryce Canyon & Zion National Parks from Vegas, Lunch, Free WiFi",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "13 hours",
+        "price": "$169"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/d2/c4/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.6,
+        "reviews_count": 907,
+        "title": "Antelope Canyon & Horseshoe Bend from Vegas, Lunch, Free WiFi",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "15 hours",
+        "price": "$189"
+      },
+      {
+        "tags": [
+          "Special Offer"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2f/83/a9/88/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 3437,
+        "title": "Grand Canyon, Hoover Dam View, Skywalk & Lunch Options, Free WiFi",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "10 hours 30 minutes",
+        "price": "$84",
+        "discounted": "$80"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/bc/67/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 7021,
+        "title": "Half-Day Mojave Desert ATV Tour from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "4 hours",
+        "price": "$90"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/da/c3/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.1,
+        "reviews_count": 3277,
+        "title": "Big Bus Las Vegas: Sightseeing Night Tour by Open-Top Bus",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "2 hours 30 minutes",
+        "price": "$59"
+      },
+      {
+        "tags": [
+          "Special Offer"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/b5/a2/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 2529,
+        "title": "Emerald Cave Kayak Tour with Optional Las Vegas Transportation",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "6 hours",
+        "price": "$109",
+        "discounted": "$93"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/ef/f1/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 3863,
+        "title": "Nellis Dunes ATV Tour from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "2 hours",
+        "price": "$90"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/cd/e8/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 6313,
+        "title": "Ultimate Hoover Dam Tour from Las Vegas with Lunch",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "5 hours 30 minutes",
+        "price": "$59"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/aa/5e/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 348,
+        "title": "Grand Canyon Helicopter Tour with Optional Skywalk Express Ticket",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "4 hours 30 minutes",
+        "price": "$599" 
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/c4/95/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 4322,
+        "title": "Award Winning 3-Hour Hoover Dam Small Group Mini Tour from Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "3 hours",
+        "price": "$68"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/ce/ea/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 1578,
+        "title": "Grand Canyon, Antelope Canyon and Horseshoe Bend Day Tour",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "17 to 19 hours",
+        "price": "$324"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/dc/e4/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 1465,
+        "title": "Los Angeles and Hollywood Small Group Day Tour from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "14 hours",
+        "price": "$250"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/d1/c4/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.9,
+        "reviews_count": 273,
+        "title": "Self-Guided Fear and Loathing UTV Rental",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "2 hours",
+        "price": "$109",
+        "note": "Price varies by group size"
+      },
+      {
+        "tags": [
+          "Likely to Sell Out"
+        ],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/c1/0c/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 5.0,
+        "reviews_count": 2591,
+        "title": "Small Group Grand Canyon, Hoover Dam, 7 Magic Mountains Tour",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "12 to 13 hours",
+        "price": "$170"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/e9/eb/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.6,
+        "reviews_count": 3851,
+        "title": "Grand Canyon West with Hoover Dam Stop and Optional Skywalk",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "10 to 11 hours",
+        "price": "$82"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/b6/d8/a0/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 386,
+        "title": "Sunset Grand Canyon Helicopter Tour from Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "4 hours 30 minutes",
+        "price": "$629"
+      },
+      {
+        "tags": [],
+        "images": [
+          "https://dynamic-media.tacdn.com/media/photo-o/2e/ff/36/c3/caption.jpg?w=800&h=600&s=1"
+        ],
+        "rating": 4.8,
+        "reviews_count": 445,
+        "title": "Off Road UTV Adrenaline Experience in Las Vegas",
+        "features": [
+          "Free Cancellation"
+        ],
+        "duration": "4 hours",
+        "price": "$225",
+        "note": "Per group"
+      }
+    ],
+    "page_description": "They say what happens in Vegas stays in Vegas, but many Las Vegas tours focus on getting you out of the city's neon lights and into the surrounding desert and canyonlands. Choose from various adventures, from trips over the Grand Canyon aboard a helicopter to ATV adventures in the dunes just outside town. Of course, if you’d rather stick closer to your hotel—and the casinos—you'll find lots to do, from taking in dazzling shows to experiencing the city at night from aboard a sightseeing bus.",
+    "people_also_ask": [
+      {
+        "question": "What are the best tours in Las Vegas?",
+        "answer": "Travelers to Las Vegas have great things to say about a number of tours. But based on ratings and reviews, these are the best options:\n\n- Grand Canyon West, Hoover Dam Stop and Optional Lunch and Skywalk: https://www.viator.com/tours/Las-Vegas/Grand-Canyon-Skywalk-Hoover-Dam-Day-Trip-W-Lunch-from-Las-Vegas/d684-132218P75\n- Grand Canyon West, Hoover Dam, Breakfast, Lunch. Optional Skywalk: https://www.viator.com/tours/Las-Vegas/Grand-Canyon-West-Rim-Ultimate-VIP-Tour/d684-3431P5\n- Half-Day Mojave Desert ATV Tour from Las Vegas: https://www.viator.com/tours/Las-Vegas/Mojave-Desert-ATV-Tour/d684-18018P8\n- Ultimate Hoover Dam Tour from Las Vegas with Lunch: https://www.viator.com/tours/Las-Vegas/Ultimate-Hoover-Dam-Tour/d684-3431UHDT\n- Award Winning 3-Hour Hoover Dam Small-Group Mini Tour from Las Vegas: https://www.viator.com/tours/Las-Vegas/Hoover-Dam-Mini-Tour/d684-65770P2"
+      },
+      {
+        "question": "Are guided tours in Las Vegas worth it?",
+        "answer": "Yes, guided Las Vegas tours are worth it. You’ll get to experience the city beyond your resort or casino, learning about its 120-year history as one of America’s favorite nightlife destinations. Plus, many guided tours offer easy transport to iconic sites like the Grand Canyon and Hoover Dam.\n\nPer one customer who booked the Half-Day Mojave Desert ATV Tour From Las Vegas (https://www.viator.com/tours/Las-Vegas/Mojave-Desert-ATV-Tour/d684-18018P8), “This is a fantastic tour. And James our tour guide made it so much better. Great guy who is very knowledgeable. He made our experience fun and kept us all safe.”"
+      },
+      {
+        "question": "How much do Las Vegas tours cost?",
+        "answer": "Sightseeing tours around the city of Las Vegas start at US$55 per person. Day excursions, such as tours of the Grand Canyon and ATV driving in the Mojave Desert, range from US$70–US$170, depending on the duration of the tour and whether or not meals and hotel pickup are included.\n\nOn the lower end of the price range, you can book tours such as the Burlesque Hall of Fame Admission (https://www.viator.com/tours/Las-Vegas/Admission-to-Museum/d684-167202P1) for around US$12 per person. The tour includes entry to The Burlesque Hall of Fame but does not include additional sightseeing on the Strip. For an upscale and all-inclusive experience, private VIP tours like the 3-Hour Private Limo Photo Tour (http://viator.com/tours/Las-Vegas/3-Hour-Private-Limo-Photo-Tour/d684-108968P6) (from around US$1,284 per group) offer a chauffeured ride to the Strip’s most famous landmarks, a professional photographer to capture your trip, and complimentary Champagne."
+      },
+      {
+        "question": "What do you see on Las Vegas tours?",
+        "answer": "Las Vegas tours take you past the city’s top attractions, from the High Roller and Fountains of Bellagio on the Strip to the Mob Museum and old-school casinos on Fremont Street. (Or you can hop on a helicopter to see everything at once.) Day tours outside of the city are also popular—you can visit the Grand Canyon or Hoover Dam in the morning and be back at your resort in time for dinner and a show.\n\nConsider an all-day tour to visit as many attractions and landmarks as possible. For example, the Grand Canyon West, Hoover Dam Stop, and Optional Lunch and Skywalk Tour (https://www.viator.com/tours/Las-Vegas/Grand-Canyon-Skywalk-Hoover-Dam-Day-Trip-W-Lunch-from-Las-Vegas/d684-132218P75) includes an air-conditioned ride from Las Vegas to the Grand Canyon West and stops at the Hoover Dam and Eagle Point. Plus, you can customize your tour by adding a Grand Canyon Skywalk ticket, lunch, and even a helicopter tour."
+      },
+      {
+        "question": "How many days in Las Vegas is enough?",
+        "answer": "Plan to spend three days in Las Vegas. Dedicate the first day to gambling and enjoying the pool and amenities at your resort or casino, then use the next day to visit museums and attractions, see a game or live show, and hop on the High Roller. A third day gives you enough time for a day trip to nearby sites like Red Rock Canyon."
+      },
+      {
+        "question": "What is the best month to visit Las Vegas?",
+        "answer": "A desert city, Las Vegas frequently reaches temperatures above 100°F in the summer months, so you’ll be most comfortable if you visit from March–May or September–November. For the best hotel rates, try to plan your trip outside of major holidays or events, such as the Super Bowl or conventions and tradeshows."
+      },
+      {
+        "question": "What are the best attractions in Las Vegas?",
+        "answer": "According to travelers, these are the best attractions in Las Vegas:\n\n- Hoover Dam: https://www.viator.com/Las-Vegas-attractions/Hoover-Dam/d684-a11\n- Grand Canyon West Rim: https://www.viator.com/Las-Vegas-attractions/Grand-Canyon-West-Rim/d684-a1594\n- Las Vegas Strip: https://www.viator.com/Las-Vegas-attractions/Las-Vegas-Strip/d684-a1263\n- Grand Canyon Skywalk: https://www.viator.com/Las-Vegas-attractions/Grand-Canyon-Skywalk/d684-a10\n- Fremont Street Experience: https://www.viator.com/Las-Vegas-attractions/Fremont-Street-Experience/d684-a1244\n\nView Viator’s guide to all the best attractions in Las Vegas: https://www.viator.com/Las-Vegas/d684."
+      },
+      {
+        "question": "What are the best day trips from Las Vegas?",
+        "answer": "There are tons of great trips to take from Las Vegas. According to traveler reviews, these are the best day trips to book right now:\n\n- Grand Canyon West, Hoover Dam Stop, and Optional Lunch and Skywalk Tour: https://www.viator.com/tours/Las-Vegas/Grand-Canyon-Skywalk-Hoover-Dam-Day-Trip-W-Lunch-from-Las-Vegas/d684-132218P75\n- Grand Canyon West Tour with Hoover Dam Stop and Optional Skywalk: https://www.viator.com/tours/Las-Vegas/Grand-Canyon-West-Rim-Ultimate-VIP-Tour/d684-3431P5\n- Half-Day Mojave Desert Tour From Las Vegas: https://www.viator.com/tours/Las-Vegas/Mojave-Desert-ATV-Tour/d684-18018P8\n- Ultimate Hoover Dam Tour from Las Vegas with Lunch: https://www.viator.com/tours/Las-Vegas/Ultimate-Hoover-Dam-Tour/d684-3431UHDT\n- Half-Day Emerald Cave Kayak Tour with Optional Hotel Pickup: https://www.viator.com/tours/Las-Vegas/Emerald-Cave-Kayaking-Tour/d684-26719P8\n\nView all of Viator’s top Las Vegas day trips: https://www.viator.com/Las-Vegas-tours/Day-Trips-and-Excursions/d684-g5."
+      },
+      {
+        "question": "What are the best affordable things to do in Las Vegas?",
+        "answer": "You don’t have to spend a fortune to have a great time in Las Vegas. Here are some of the best Las Vegas activities under US$25:\n\n- Nathan Burton Comedy Magic: https://www.viator.com/tours/Las-Vegas/Nathan-Burton-Comedy-Magic/d684-439678P1\n- High Roller Wheel Admission Ticket at The LINQ: https://www.viator.com/tours/Las-Vegas/The-High-Roller-at-The-LINQ/d684-5084LASHIG\n- Laughternoon: https://www.viator.com/tours/Las-Vegas/Laughternoon-Starring-Adam-London-at-the-D-Las-Vegas/d684-6792LASLAU\n- Skip the Line: Springs Preserve in Las Vegas Admission Ticket: https://www.viator.com/tours/Las-Vegas/Springs-Preserve-Admission/d684-6473SP\n- Haunted Boulder City Ghost and UFO Tour: https://www.viator.com/tours/Las-Vegas/Haunted-Boulder-City-Ghost-and-UFO-Tour/d684-322196P1"
+      },
+      {
+        "question": "What are the best outdoor activities in Las Vegas?",
+        "answer": "There are tons of Las Vegas activities to enjoy in the fresh air. Here are some of the top outdoor tours to book right now:\n\n- The Grand Canyon West, Hoover Dam Stop, and Optional Lunch and Skywalk Tour: https://www.viator.com/tours/Las-Vegas/Grand-Canyon-Skywalk-Hoover-Dam-Day-Trip-W-Lunch-from-Las-Vegas/d684-132218P75\n- Half-Day Mojave Desert Tour From Las Vegas: https://www.viator.com/tours/Las-Vegas/Mojave-Desert-ATV-Tour/d684-18018P8\n- Half-Day Emerald Cave Kayak Tour with Optional Hotel Pickup: https://www.viator.com/tours/Las-Vegas/Emerald-Cave-Kayaking-Tour/d684-26719P8\n- Las Vegas Dunes ATV Tour: https://www.viator.com/tours/Las-Vegas/Las-Vegas-Dunes-Tour/d684-18018P10\n- Lower Antelope Canyon and Horseshoe Bend Day Tour with Lunch: https://www.viator.com/tours/Las-Vegas/Lower-Antelope-Canyon-and-Horseshoe-Bend-Day-Tour/d684-132218P5\n\nView all of Viator’s top outdoor activities in Las Vegas: https://www.viator.com/Las-Vegas-tours/Outdoor-Activities/d684-g9."
+      }
+    ],
+    "more_tour_categories": [
+      {
+        "name": "Attractions & Museums"
+      },
+      {
+        "name": "Helicopter Tours"
+      },
+      {
+        "name": "Shows & Performances"
+      },
+      {
+        "name": "Kayaking Tours"
+      },
+      {
+        "name": "Wedding Packages"
+      },
+      {
+        "name": "ATV Tours"
+      },
+      {
+        "name": "Bus Tours"
+      },
+      {
+        "name": "Museum Tickets & Passes"
+      },
+      {
+        "name": "Nightlife"
+      },
+      {
+        "name": "Horseback Riding"
+      },
+      {
+        "name": "Cirque du Soleil Shows"
+      },
+      {
+        "name": "Airport & Hotel Transfers"
+      }
+    ],
+    "attractions_in_las_vegas": [
+      {
+        "name": "Downtown Las Vegas Tours & Tickets"
+      },
+      {
+        "name": "Colorado River Tours & Tickets"
+      },
+      {
+        "name": "Binion's Gambling Hall Tours & Tickets"
+      },
+      {
+        "name": "Lake Mead National Recreation Area Tours & Tickets"
+      },
+      {
+        "name": "Erotic Heritage Museum, Las Vegas Tours & Tickets"
+      },
+      {
+        "name": "Boulder City/Hoover Dam Museum Tours & Tickets"
+      },
+      {
+        "name": "Count's Kustoms Tours & Tickets"
+      },
+      {
+        "name": "Grand Canyon South Rim Tours & Tickets"
+      },
+      {
+        "name": "M&M’S World Las Vegas Tours & Tickets"
+      },
+      {
+        "name": "Excalibur Hotel & Casino Tours & Tickets"
+      },
+      {
+        "name": "Las Vegas Lake Tours & Tickets"
+      },
+      {
+        "name": "T-Mobile Arena Tours & Tickets"
+      }
+    ],
+    "things_to_do_near_las_vegas": [
+      {
+        "name": "Things to do in Zion National Park"
+      },
+      {
+        "name": "Things to do in Grand Canyon National Park"
+      },
+      {
+        "name": "Things to do in Gunung Mulu National Park"
+      },
+      {
+        "name": "Things to do in Palm Springs"
+      },
+      {
+        "name": "Things to do in Sequoia and Kings Canyon National Park"
+      },
+      {
+        "name": "Things to do in Bryce Canyon National Park"
+      },
+      {
+        "name": "Things to do in Flagstaff"
+      },
+      {
+        "name": "Things to do in Sedona"
+      },
+      {
+        "name": "Things to do in Temecula"
+      },
+      {
+        "name": "Things to do in Page"
+      },
+      {
+        "name": "Things to do in Anaheim & Buena Park"
+      },
+      {
+        "name": "Things to do in Laguna Beach"
+      },
+      {
+        "name": "Things to do in Dana Point"
+      }
+    ],
+    "popular_on_viator": [
+      {
+        "name": "Statue of Liberty"
+      },
+      {
+        "name": "The White House"
+      },
+      {
+        "name": "Antelope Canyon"
+      },
+      {
+        "name": "Hoover Dam"
+      },
+      {
+        "name": "Alcatraz"
+      },
+      {
+        "name": "Stonehenge"
+      },
+      {
+        "name": "Auschwitz-Birkenau Memorial and Museum"
+      },
+      {
+        "name": "Beverly Hills"
+      },
+      {
+        "name": "Colosseum"
+      },
+      {
+        "name": "Washington Monument"
+      },
+      {
+        "name": "San Diego Zoo"
+      },
+      {
+        "name": "Space Needle"
+      },
+      {
+        "name": "Eiffel Tower"
+      },
+      {
+        "name": "Pearl Harbor National Memorial"
+      },
+      {
+        "name": "Empire State Building"
+      },
+      {
+        "name": "Art Institute of Chicago"
+      },
+      {
+        "name": "Aquarium of the Pacific"
+      },
+      {
+        "name": "Blue Lagoon"
+      },
+      {
+        "name": "Burj Khalifa"
+      },
+      {
+        "name": "Metropolitan Museum of Art (The Met)"
+      }
+    ]
+
+  }
